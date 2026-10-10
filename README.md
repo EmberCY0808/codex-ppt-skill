@@ -243,7 +243,8 @@ skill 会按以下流程执行：
 
 遇到问题？请查看[使用文档](https://ningzimu.github.io/codex-ppt-skill/#/)，加入 [CodexPPT](https://t.me/CodexPPT)，或[提交 Issue](https://github.com/ningzimu/codex-ppt-skill/issues/new)。
 
-<img width="220" alt="群聊：Skill交流群④" src="https://github.com/user-attachments/assets/847538ff-3781-45b7-ad3e-b0797c45c7ed" />
+<img width="220" alt="群聊" src="https://github.com/user-attachments/assets/71216422-1fa0-4e69-a229-5d776abb52cc" />
+
 
 ## 许可证
 
