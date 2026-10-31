@@ -4,6 +4,10 @@ Release notes are generated from this file. Keep changelog entries in English.
 
 ## Unreleased
 
+### Features
+
+- Add the complete project-scoped journal-club-ppt skill pinned to upstream commit f943bbd5617ea796f651e543c4f74a0268dc4eb0 alongside codex-ppt. (#1)
+
 ## 0.6.0
 
 ### Improvements
