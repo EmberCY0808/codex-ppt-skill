@@ -6,7 +6,7 @@ Release notes are generated from this file. Keep changelog entries in English.
 
 ### Documentation
 
-- Add the existing journal-club test PPTX and rendered PDF preview for direct download.
+- Add the existing journal-club test PPTX and rendered PDF preview for direct download. (#2)
 
 ### Features
 
