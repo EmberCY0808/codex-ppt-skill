@@ -4,6 +4,10 @@ Release notes are generated from this file. Keep changelog entries in English.
 
 ## Unreleased
 
+### Documentation
+
+- Publish the completed 12-slide zinc-organic cathode presentation, PDF preview, Chinese speaker notes, and source/validation records for download. (#3)
+
 ### Features
 
 - Add the complete project-scoped journal-club-ppt skill pinned to upstream commit f943bbd5617ea796f651e543c4f74a0268dc4eb0 alongside codex-ppt. (#1)

@@ -1,0 +1,16 @@
+﻿论文,指标,数值,单位,必要条件及边界,来源
+P1,ANQ容量,236.6,mAh g−1,0.05 A g−1;0.3–1.7 V,PDF3/Fig2b
+P1,MNQ容量,192.1,mAh g−1,0.05 A g−1;0.3–1.3 V,PDF3/Fig2b
+P1,ANQ四电子理论容量,202.82,mAh g−1,基于四羰基简单模型；低于实测,PDF4
+P1,MNQ/ANQ计算能隙,2.74/2.49,eV,DFT HOMO–LUMO，非光学能隙,PDF9/Fig5e
+P1,ANQ高倍率容量,约155–160,mAh g−1,50 A g−1；摘要155，正文159.7,"PDF1,4,6/Fig2d,f"
+P1,ANQ长循环,>100000,次,50 A g−1；保持率内文69.4/78.4/约69不一致，不选单值,"PDF2,6,10/Fig2f"
+P2,discharge capacity,360,mAh g−1,"0.05 A g−1,room-temperature coin cell",Fig3b;PDF7
+P2,high-rate capacity,163,mAh g−1,20 A g−1,Fig3b;PDF7
+P2,retention,85,%,"2000 cycles,1 A g−1",Fig3e;PDF7
+P2,retention,67,%,"30000 cycles,10 A g−1; 5 activation cycles0.2A/g first","Fig3f;PDF7,10"
+P2,cold capacity,172,mAh g−1,"−50°C,0.2A/g","Fig6b,f;PDF9–10"
+P2,warm capacity,312,mAh g−1,"50°C,0.2A/g",Fig6b;PDF9–10
+P3,BTAQX报告指标,157.8 mAh g−1,见数值,"BTAQX//Zn, 0.05 A g−1, 1 M Zn(OTF)2；正文p6与摘要",PDF6/Fig.4b
+P3,BTAQX报告指标,约1.10 V vs Zn2+/Zn,见数值,"0.05 A g−1, 1 M Zn(OTF)2；称工作电压，不称固定平均放电电压",PDF6/Fig.4b
+P3,BTAQX报告指标,96.7% after 200 cycles,见数值,"0.05 A g−1, 1 M Zn(OTF)2；基于初始容量157.8mAh/g",PDF5/Fig.4c

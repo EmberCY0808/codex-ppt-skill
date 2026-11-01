@@ -1,0 +1,19 @@
+﻿PPT页码,证据ID,论文DOI,PDF页码(从1开始),原文图号,原图裁剪文件,归一化裁图bbox,裁图SHA256,说明
+4,P1:anq-synthesis,10.1002/adfm.76927,4,Fig.1a,anq-synthesis.png,"[0.09, 0.05, 0.91, 0.198]",6d248dbc7a3f80e6be8178d3d84a7d88829debc076f30da7a702bf46e91b2a48,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+4,P1:anq-mesp,10.1002/adfm.76927,9,Fig.5a,anq-mesp.png,"[0.095, 0.045, 0.91, 0.1715]",490f951b2247beac34a18ae4b61a624ebc4bf79b425a1ede47c12c3f599441a8,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+5,P1:anq-cv,10.1002/adfm.76927,5,Fig.2a,anq-cv.png,"[0.095, 0.045, 0.345, 0.209]",86ba07cbd3cff38b8e3c04261fc632b3f5bf82fe48893ad3ffc0663a8de88833,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+5,P1:anq-gcd,10.1002/adfm.76927,5,Fig.2b,anq-gcd.png,"[0.36, 0.045, 0.61, 0.209]",25710684b61f6c95ce1398c78fa6e25b0df316ddb0374e1eb85f11c307687eff,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+5,P1:anq-ftir,10.1002/adfm.76927,8,Fig.4a-b,anq-ftir.png,"[0.105, 0.05, 0.51, 0.263]",ef5c66c5d689a9e832d6adcfcaaf31151817d6ff2e53e7dfe316e2042fa0f6c0,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+5,P1:anq-xps,10.1002/adfm.76927,8,Fig.4c-d,anq-xps.png,"[0.515, 0.05, 0.91, 0.263]",1cb26538c193c557a90197900335c7fbd619ccb51803fa39c78638adb6c87043,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+6,P2:dop-structure,10.1021/acsnano.5c00833,2,"Figure1a, DTP/DOP structural formulas",dop-structure.png,"[0.083, 0.074, 0.36, 0.24]",08e64b84882de0d113a11a9cd218e11328fe6723964ce3c4ef49b489ed3b5950,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+6,P2:dop-dissolution,10.1021/acsnano.5c00833,2,"Figure1e,f, cycling images and in-situ UV-vis",dop-dissolution.png,"[0.367, 0.245, 0.92, 0.419]",b3876a6d4b3b38b17971efea8ddc10ad6af514b922546294c695b8fc36212481,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+7,P2:dop-rate-gcd,10.1021/acsnano.5c00833,5,"Figure3b,c, rate and GCD",dop-rate-gcd.png,"[0.35, 0.076, 0.92, 0.245]",af933abed4f49d7d24d3188c5e37263f7661a47065bd576312152176da30aa29,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+7,P2:dop-longcycle,10.1021/acsnano.5c00833,5,"Figure3f, 10A/g30000cycles",dop-longcycle.png,"[0.085, 0.425, 0.92, 0.591]",7204b91e72495490c0dc806f401256a670cf1dc4dde061594e75fb0d9888997b,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+8,P2:dop-reaction,10.1021/acsnano.5c00833,7,"Figure5k, authors proposed 2e p-type plus6e n-type reaction model",dop-reaction.png,"[0.713, 0.232, 0.915, 0.512]",ce34b30d46ac776ec01117e8a9063884173d09e80661ce130b54bc9147d4a5a8,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+8,P2:dop-raman-ir,10.1021/acsnano.5c00833,7,"Figure5a–d, Raman and operando FTIR",dop-raman-ir.png,"[0.083, 0.076, 0.915, 0.224]",378a46dd0fe78970f02b898679fe43068b6cd14522fc1a14c82949ce160943dd,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+8,P2:dop-xps,10.1021/acsnano.5c00833,7,"Figure5e,f, Zn2p/Cl2p ex-situ XPS",dop-xps.png,"[0.083, 0.23, 0.495, 0.382]",3ce537c2b0a1e807c8f943b264c227ba45db2c9928066b6daa90a3a39000f19a,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+9,P3:Fig1a,10.1016/j.cej.2025.169407,2,Fig.1a,btaqx-structure.png,"[0.065, 0.066, 0.925, 0.153]",7579e84401f958ea6171919111587f7cc9c673604e3da990655d2440e140948c,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+9,P3:Fig4bc,10.1016/j.cej.2025.169407,5,Fig.4b-c,btaqx-gcd-cycle.png,"[0.346, 0.068, 0.936, 0.234]",5beda855be2760563c299d867715761361c30496c6cd4210bdc8d1cca55cef00,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+10,P3:Fig2g,10.1016/j.cej.2025.169407,3,Fig.2g,btaqx-reaction.png,"[0.065, 0.485, 0.94, 0.605]",03bb9f86355b7cc6fa24e0f37b8926946ba059b417e32c3ba5d56dc87998555d,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+10,P3:Fig2de,10.1016/j.cej.2025.169407,3,Fig.2d-e,btaqx-xps.png,"[0.065, 0.275, 0.635, 0.48]",d3460e8141afd100039cd067fdcd8e63a5b21a57d5248d114a7006afcef66b02,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
+10,P3:btaqx-ftir,10.1016/j.cej.2025.169407,3,Fig.2a-b,btaqx-ftir.png,"[0.065, 0.07, 0.635, 0.278]",9eeba5344c27d0008808184b967cb26275a2b195cbb76a043db8ccf02dbb3759,原色、等比、原字节嵌入；图片内部曲线/分子原子不逐元素可编辑
