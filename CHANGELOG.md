@@ -6,7 +6,7 @@ Release notes are generated from this file. Keep changelog entries in English.
 
 ### Documentation
 
-- Add ZincAI Academy with a 12-week curriculum, persistent tutoring rules, progress tracking, and a runnable first Python lesson using clearly labeled simulated battery data.
+- Add ZincAI Academy with a 12-week curriculum, persistent tutoring rules, progress tracking, and a runnable first Python lesson using clearly labeled simulated battery data. (#4)
 - Publish the completed 12-slide zinc-organic cathode presentation, PDF preview, Chinese speaker notes, and source/validation records for download. (#3)
 
 ### Features
