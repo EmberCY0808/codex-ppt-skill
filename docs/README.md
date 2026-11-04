@@ -1,5 +1,7 @@
 # Codex PPT Skill 说明文档
 
+本仓库还包含 [ZincAI Academy](https://github.com/EmberCY0808/codex-ppt-skill/tree/main/zincai-academy)：面向锌离子电池有机正极研究的 12 周 Python 与 AI 中文课程，每天 45–60 分钟；当前从第一课开始。
+
 Codex PPT 是一个面向 Codex 的 PPT 生成 skill，也可在 Claude Code、OpenClaw、Hermes Agent 等支持 `SKILL.md` 的 agent 中使用。它把文章、报告、论文、课程笔记或粗略想法转换成图片式演示文稿：先规划大纲和视觉风格，再逐页生成完整幻灯片图片，最后组装成 `.pptx` 文件。
 
 ## 赞助
