@@ -1,5 +1,7 @@
 # Codex PPT Skill Documentation
 
+This repository also includes [ZincAI Academy](https://github.com/EmberCY0808/codex-ppt-skill/tree/main/zincai-academy), a 12-week Chinese-language Python and AI course for zinc-ion battery organic-cathode research, designed for 45–60 minutes a day. Start with lesson one.
+
 Codex PPT is a presentation-generation skill built for Codex. It also works with agents that support `SKILL.md`, including Claude Code, OpenClaw, and Hermes Agent. It turns articles, reports, papers, course notes, or rough ideas into image-based presentations: first planning the outline and visual style, then generating each complete slide as an image, and finally assembling the images into a `.pptx` file.
 
 ## Sponsor

@@ -1,0 +1,7 @@
+# 本课程的本地临时文件，不提交学习环境和中间检查产物。
+work/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/

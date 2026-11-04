@@ -1,5 +1,7 @@
 # Codex PPT Skill 문서
 
+이 저장소에는 아연 이온 전지 유기 양극 연구를 위한 12주 중국어 Python·AI 과정인 [ZincAI Academy](https://github.com/EmberCY0808/codex-ppt-skill/tree/main/zincai-academy)도 포함되어 있습니다. 하루 45–60분을 기준으로 하며 첫 수업부터 시작합니다.
+
 Codex PPT는 Codex용 PPT 생성 skill이며, Claude Code, OpenClaw, Hermes Agent 등 `SKILL.md`를 지원하는 agent에서도 사용할 수 있습니다. 글, 보고서, 논문, 수업 노트 또는 거친 아이디어를 이미지형 프레젠테이션으로 변환합니다. 먼저 개요와 시각 스타일을 설계하고, 각 슬라이드의 완성 이미지를 차례로 생성한 뒤, 마지막으로 `.pptx` 파일로 조립합니다.
 
 ## 스폰서

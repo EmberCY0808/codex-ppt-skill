@@ -1,5 +1,11 @@
 # AGENTS.md
 
+## ZincAI Academy
+
+- The Chinese-language materials-science and Python teaching project lives in `zincai-academy/`.
+- Before teaching or editing that project, read `zincai-academy/AGENTS.md` and `zincai-academy/progress.md`.
+- Keep academy changes scoped to that directory except for repository entry links and changelog updates.
+
 ## Contribution Flow
 
 - All non-trivial changes should go through a pull request.

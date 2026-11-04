@@ -1,0 +1,3 @@
+sample_id,cycle,specific_capacity_mAh_g,current_density_A_g,data_origin
+Teaching-Organic-A,1,200.0,0.2,simulated_teaching
+Teaching-Organic-A,100,180.0,0.2,simulated_teaching
