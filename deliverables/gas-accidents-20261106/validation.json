@@ -1,4 +1,5 @@
 {
+  "revision": "visual-v2",
   "slide_count": 7,
   "actual_render_count": 7,
   "visually_reviewed_pages": [
@@ -13,72 +14,49 @@
   "objects": [
     {
       "page": 1,
-      "native_text_runs": 3,
+      "text_objects": 10,
       "native_tables": 0,
       "pictures": 2
     },
     {
       "page": 2,
-      "native_text_runs": 11,
+      "text_objects": 27,
       "native_tables": 0,
       "pictures": 0
     },
     {
       "page": 3,
-      "native_text_runs": 12,
+      "text_objects": 27,
       "native_tables": 0,
       "pictures": 1
     },
     {
       "page": 4,
-      "native_text_runs": 7,
+      "text_objects": 36,
       "native_tables": 0,
       "pictures": 1
     },
     {
       "page": 5,
-      "native_text_runs": 26,
+      "text_objects": 16,
       "native_tables": 1,
       "pictures": 0
     },
     {
       "page": 6,
-      "native_text_runs": 22,
+      "text_objects": 19,
       "native_tables": 1,
-      "pictures": 0
+      "pictures": 1
     },
     {
       "page": 7,
-      "native_text_runs": 19,
+      "text_objects": 29,
       "native_tables": 0,
       "pictures": 0
     }
   ],
-  "source_images_bytes_preserved": true,
-  "repository_unchanged_before_delivery": true,
   "desktop_powerpoint_tested": false,
   "standard_dependency_entry_available": false,
-  "source_arithmetic_discrepancy": "author 61.51%; recomputed 61.48%; disclosed on slide 6",
-  "files": {
-    "speaker-notes-zh.md": {
-      "bytes": 3554,
-      "sha256": "4f233b141fa628216557a2dbfc746049af620fae218434e837931399c10e45be",
-      "git_blob_sha": "5717b7e08ba57296f568b7ee3270f1579d185f91"
-    },
-    "gas-accidents-7slides.pptx": {
-      "bytes": 596118,
-      "sha256": "c1d0abbcbe25e28cd9e468f7dae897360ab6d93cd760cceca714084785ce03a2",
-      "git_blob_sha": "a80cba07f8cbb06480162280c336ce0a69259590"
-    },
-    "sources-and-quality.md": {
-      "bytes": 3346,
-      "sha256": "1d2337b000ca7b72d3a14f2b3d526598e3fc778bc1056be3ca88d251fafaf687",
-      "git_blob_sha": "35277a8e33998746e4de83ea319cafd1a7099813"
-    },
-    "gas-accidents-preview.pdf": {
-      "bytes": 1137497,
-      "sha256": "4c3028e7b7ecf968c34103a3c22f92ce8280b1762d0c661d217ee04f1df05d28",
-      "git_blob_sha": "2e71a6e00d69dc6f9404e04e7daadb4cf41e74cf"
-    }
-  }
+  "pptx_sha256": "4b5c75e1e7ba70821a6480f65bfab0345e59662924dab80c9b80690e316cbc7c",
+  "pdf_sha256": "939cc7c29e74ea040d70cd7639cdc69594fe02bf08bbfe706b01a93ea4946bd8"
 }
