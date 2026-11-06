@@ -6,6 +6,10 @@ Release notes are generated from this file. Keep changelog entries in English.
 
 ### Documentation
 
+- Restyle the gas accident report to match the zinc cathode deck with blue title bands, pale evidence panels, compact figures, and highlighted data. (#5)
+
+- Publish the seven-slide urban gas accident literature report, PDF preview, Chinese speaker notes, and source/quality records for download. (#5)
+
 - Publish the completed 12-slide zinc-organic cathode presentation, PDF preview, Chinese speaker notes, and source/validation records for download. (#3)
 
 ### Features

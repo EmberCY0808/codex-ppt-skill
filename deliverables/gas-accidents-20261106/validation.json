@@ -1,0 +1,62 @@
+{
+  "revision": "visual-v2",
+  "slide_count": 7,
+  "actual_render_count": 7,
+  "visually_reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "objects": [
+    {
+      "page": 1,
+      "text_objects": 10,
+      "native_tables": 0,
+      "pictures": 2
+    },
+    {
+      "page": 2,
+      "text_objects": 27,
+      "native_tables": 0,
+      "pictures": 0
+    },
+    {
+      "page": 3,
+      "text_objects": 27,
+      "native_tables": 0,
+      "pictures": 1
+    },
+    {
+      "page": 4,
+      "text_objects": 36,
+      "native_tables": 0,
+      "pictures": 1
+    },
+    {
+      "page": 5,
+      "text_objects": 16,
+      "native_tables": 1,
+      "pictures": 0
+    },
+    {
+      "page": 6,
+      "text_objects": 19,
+      "native_tables": 1,
+      "pictures": 1
+    },
+    {
+      "page": 7,
+      "text_objects": 29,
+      "native_tables": 0,
+      "pictures": 0
+    }
+  ],
+  "desktop_powerpoint_tested": false,
+  "standard_dependency_entry_available": false,
+  "pptx_sha256": "4b5c75e1e7ba70821a6480f65bfab0345e59662924dab80c9b80690e316cbc7c",
+  "pdf_sha256": "939cc7c29e74ea040d70cd7639cdc69594fe02bf08bbfe706b01a93ea4946bd8"
+}
