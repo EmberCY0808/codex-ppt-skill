@@ -6,6 +6,8 @@ Release notes are generated from this file. Keep changelog entries in English.
 
 ### Documentation
 
+- Publish the combined 13-slide gas-accident and flood-risk literature report, PDF preview, Chinese speaker notes, and source/quality records with requested script fonts. (#6)
+
 - Publish the completed 12-slide zinc-organic cathode presentation, PDF preview, Chinese speaker notes, and source/validation records for download. (#3)
 
 ### Features
