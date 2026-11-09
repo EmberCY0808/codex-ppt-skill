@@ -1,0 +1,131 @@
+{
+  "slide_count": 13,
+  "actual_render_count": 13,
+  "visually_reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "original_7_pages_geometry_preserved": true,
+  "original_images_bytes_preserved": true,
+  "objects": [
+    {
+      "page": 1,
+      "native_text_runs": 3,
+      "native_tables": 0,
+      "pictures": 2
+    },
+    {
+      "page": 2,
+      "native_text_runs": 25,
+      "native_tables": 0,
+      "pictures": 0
+    },
+    {
+      "page": 3,
+      "native_text_runs": 17,
+      "native_tables": 0,
+      "pictures": 1
+    },
+    {
+      "page": 4,
+      "native_text_runs": 25,
+      "native_tables": 0,
+      "pictures": 1
+    },
+    {
+      "page": 5,
+      "native_text_runs": 31,
+      "native_tables": 1,
+      "pictures": 0
+    },
+    {
+      "page": 6,
+      "native_text_runs": 29,
+      "native_tables": 1,
+      "pictures": 1
+    },
+    {
+      "page": 7,
+      "native_text_runs": 21,
+      "native_tables": 0,
+      "pictures": 0
+    },
+    {
+      "page": 8,
+      "native_text_runs": 19,
+      "native_tables": 0,
+      "pictures": 1
+    },
+    {
+      "page": 9,
+      "native_text_runs": 13,
+      "native_tables": 0,
+      "pictures": 3
+    },
+    {
+      "page": 10,
+      "native_text_runs": 71,
+      "native_tables": 1,
+      "pictures": 0
+    },
+    {
+      "page": 11,
+      "native_text_runs": 17,
+      "native_tables": 0,
+      "pictures": 3
+    },
+    {
+      "page": 12,
+      "native_text_runs": 21,
+      "native_tables": 1,
+      "pictures": 1
+    },
+    {
+      "page": 13,
+      "native_text_runs": 24,
+      "native_tables": 0,
+      "pictures": 0
+    }
+  ],
+  "font_assignments_verified": {
+    "chinese": "Microsoft YaHei",
+    "other": "Times New Roman"
+  },
+  "requested_fonts_installed_in_cloud": false,
+  "preview_uses_fallback_fonts": true,
+  "desktop_powerpoint_tested": false,
+  "skill_plan_gate_passed": false,
+  "skill_plan_gate_reason": "用户确认原7页直接接新增6页，默认多篇过渡页要求不兼容；保留profile与schema，如实记录，未修改Skill。",
+  "pptx_package_integrity": "pass",
+  "pptx_layout_findings": 0,
+  "pptx_layout_warnings": 0,
+  "pdf_pages": 13,
+  "files": {
+    "speaker-notes-zh.md": {
+      "sha256": "54ce4084bcb51e627b95d84fc437a7cbe5ae9dc9e42ba360a5b63531d24152a6",
+      "bytes": 7259,
+      "git_blob_sha": "eae3e7d56076c99825ffb2f87797369590a34ca4"
+    },
+    "rendered-preview.pdf": {
+      "sha256": "0aaea8468206a7d21738120dd859dd5a94a17b890c5fde2b608306868e3125c6",
+      "bytes": 3582519,
+      "git_blob_sha": "919b7f2d8e22a5b666de14459909db7461891dc3"
+    },
+    "wei-xinqi-literature-13slides.pptx": {
+      "sha256": "d826f2122f7c43109669b13808a779fbcd9e85dd714cb6988facfb7e72c1379a",
+      "bytes": 2557824,
+      "git_blob_sha": "b336352d8cbe667f53156d097009c4b3f6ac7b68"
+    }
+  }
+}
